@@ -11,7 +11,7 @@ import streamlit as st
 from collections import defaultdict
 
 # Load the dataset
-with open('C:/Users/91932/Downloads/intents.json', 'r') as file:
+with open('intents.json', 'r') as file:
     dataset = json.load(file)
 
 # Extract intents and patterns
