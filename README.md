@@ -1,4 +1,5 @@
-TravelPal - Your Personal Travel Assistant 🌍🧳
+##TravelPal - Your Personal Travel Assistant 🌍🧳##
+
 TravelPal is a chatbot designed to assist users in planning their travel itinerary. It provides recommendations for accommodations, activities, and restaurants based on user preferences. The chatbot uses Natural Language Understanding (NLU) techniques to understand user input and respond appropriately.
 
 Features
